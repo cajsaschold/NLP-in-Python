@@ -14,14 +14,11 @@ Text_Mining_Report.pdf - The final project report detailing the methodology, res
 
 ## Requirements
 
-To run this project, install the following dependencies:
-
+**To run this project, install the following dependencies:**
 pip install praw spacy scispacy matplotlib pandas
-
 python -m spacy download en_core_sci_sm
 
 ## Running the Code
 
-To execute the script and analyze data:
-
+**To execute the script and analyze data:**
 python gender.py
