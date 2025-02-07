@@ -17,6 +17,7 @@ Text_Mining_Report.pdf - The final project report detailing the methodology, res
 **To run this project, install the following dependencies:**
 
 pip install praw spacy scispacy matplotlib pandas
+
 python -m spacy download en_core_sci_sm
 
 
