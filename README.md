@@ -1,6 +1,6 @@
 # TDDE16
 
-The code and report from the course Text Mining (TDDE16) given at Linköping University. This repository contains the code and report from the Text Mining (TDDE16) course given at Linköping University. The project analyzes gender and age differences in symptom descriptions from Reddit's AskDocs subreddit using Natural Language Processing (NLP) techniques.
+The code and report from the course Text Mining (TDDE16) given at Linköping University. The project analyzes gender and age differences in symptom descriptions from Reddit's AskDocs subreddit using Natural Language Processing (NLP) techniques.
 
 The aim of this project is to investigate whether certain symptoms are reported more frequently by different genders and age groups in an online medical forum. The analysis is performed using Named Entity Recognition (NER) and concept linking with the UMLS medical database. Data is collected from the AskDocs subreddit using the Reddit API. Symptoms are extracted using SpaCy and ScispaCy, linking them to UMLS medical concepts.
 
