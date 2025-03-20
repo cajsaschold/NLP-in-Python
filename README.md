@@ -12,7 +12,7 @@ The aim of this project is to investigate whether certain symptoms are reported 
 ### Requirements
 
 **To run this project, install the following dependencies:**  
-pip install praw spacy scispacy matplotlib pandas  
-python -m spacy download en_core_sci_sm
+`pip install praw spacy scispacy matplotlib pandas`  
+`python -m spacy download en_core_sci_sm`
 
 
