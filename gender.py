@@ -117,8 +117,8 @@ def main():
     """
     # Set up Reddit API
     reddit = praw.Reddit(
-        client_id='JjA1KIDbvcj5dmByl9Ei5Q',
-        client_secret='LyX9AWEVTP3nUb9c_eHClKWVIdh1qg',
+        client_id='REDDIT_CLIENT_ID', # Replace with your Reddit client ID
+        client_secret='REDDIT_CLIENT_SECRET', # Replace with your Reddit client secret
         user_agent='Any_Acanthaceae915'
     )
 
